@@ -1,10 +1,10 @@
+# 🌸 欢迎来到我的 GitHub 🌸
+
 <p align="center">
   <img src="assets/绪山真寻2.jpg" width="200"/>
 </p>
 
-# 🌸 欢迎来到我的 GitHub 🌸
-
-嗨~ 我是 **Zhu Yi**，一个热爱编程的程序员 👾💻  
+嗨~ 我是 **竹一(Zhu Yi)**，一个热爱编程的程序员 👾💻  
 我的日常：Python 🐍 | Go 🏎️ | JavaScript ⚡
 
 ---
@@ -20,10 +20,12 @@
 | 技能 | 熟练度 |
 |------|--------|
 | Python 🐍 | ★★★★★ |
+| Golang | ★★★★☆ |
 | FastAPI ⚡ | ★★★★☆ |
+| Gin ⚡ | ★★★★☆ |
+| React ⚡ | ★★★★☆ |
+| Scrapy | ★★★★☆ |
 | SQL 🗄️ | ★★★★☆ |
-| Git & GitHub 🐙 | ★★★★★ |
-| Linux 🐧 | ★★★★☆ |
 
 ## 
 
