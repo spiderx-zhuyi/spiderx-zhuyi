@@ -15,7 +15,7 @@
 
 ## 📅 我的 GitHub 活动
 
-![GitHub Contributions](https://ghchart.rshah.org/spiderx-zhuyi)
+![GitHub Contributions](https://ghchart.rshah.org/spiderx-zhuyi?t=refresh)
 
 ---
 
