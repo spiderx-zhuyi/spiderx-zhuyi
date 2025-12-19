@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/绪山真寻2.jpg" width="200"/>
 </p>
-嗨~ 我是 `竹一(Zhu Yi)`，一个热爱编程的程序员 👾💻  
+嗨~ 我是 <b>竹一(Zhu Yi)</b>，一个热爱编程的程序员 👾💻  
 
 我的日常：Python 🐍 | Go 🏎️ | JavaScript ⚡
 
