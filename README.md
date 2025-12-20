@@ -5,34 +5,23 @@
 </p>
 嗨~ 我是 <b>竹一(Zhu Yi)</b>，一个热爱编程的程序员 👾💻  
 
-我的日常：Python 🐍 | Go 🏎️ | JavaScript ⚡
+<b>技能语言</b>：Python 🐍  | Golang 🏎️ | JavaScript ⚡| SQL📊
+
+<b>框架工具</b>：Scrapy 🕷️ | React ⚛️ | Gin 🏎️ | Django 🌐 | FastAPI 🚀 ｜React Native 🟢📱
+
+<b>专长</b>：全栈💻 | 爬虫🕷️| 自动化⚙️ | 区块链💰｜js逆向🔍｜
+
+<b>偶尔</b>：浏览器插件 🧩 | App开发 📱
+
+<b>兴趣爱好</b>： 日语🇯🇵📖｜英语🇺🇸📖
+
+<b>正在学习</b>：机器学习 📊 | 数据分析 📈 | 概率统计 🎲
 
 <p align="center">
   <img src="assets/波奇酱2.png" height="200"/>
 </p>
 
----
 
-## 📅 我的 GitHub 活动
-
-![GitHub Contributions](https://ghchart.rshah.org/spiderx-zhuyi?t=refresh)
-
----
-
-## ⚡ 技能 & 工具
-
-| 技能 | 熟练度 |
-|------|--------|
-| Python 🐍 | ★★★★★ |
-| Golang | ★★★★☆ |
-| FastAPI ⚡ | ★★★★☆ |
-| Gin ⚡ | ★★★★☆ |
-| React ⚡ | ★★★★☆ |
-| Scrapy | ★★★★☆ |
-| SQL 🗄️ | ★★★★☆ |
-
-
----
 
 ## 📬 联系我
 
