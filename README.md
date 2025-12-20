@@ -16,7 +16,3 @@
 
 <b>联系我</b>：📬 zhuyicode@gmail.com</span>
 
-
-<p align="center">
-  <img src="assets/波奇酱2.png" height="200" style="border-radius: 20px; margin-top: 80px"/>
-</p>
