@@ -1,23 +1,20 @@
 # <p align="center">🌸 欢迎来到我的 GitHub 🌸</p>
 
-<img src="assets/绪山真寻2.jpg" align="left" width="200" style="border-radius: 20px"/>
-<br><br><span style="padding-left: 10px">嗨~ 我是 <b>竹一(Zhu Yi)</b>，一个热爱编程的程序员 👾💻  
+<img src="/Users/longxuan/Desktop/my/github_homepage/README.assets/绪山真寻2-6254574.jpg" align="left" width="200" style="border-radius:20px; margin-right:20px;"/><br><br>嗨~ 我是 **竹一(Zhu Yi)**，一个热爱编程的程序员 👾💻  
 
-<b>技能语言</b>：Python 🐍  | Golang 🏎️ | JavaScript ⚡| SQL📊
+技能语言：![Python](https://img.shields.io/badge/Python-🐍-blue)![Golang](https://img.shields.io/badge/Golang-🏎️-orange)![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow)![SQL](https://img.shields.io/badge/SQL-📊-lightgrey)
 
-<b>框架工具</b>：Scrapy 🕷️ | React ⚛️ | Gin 🏎️ | Django 🌐 | FastAPI 🚀 ｜React Native 🟢📱
+框架工具：![Scrapy](https://img.shields.io/badge/Scrapy-🕷️-green)![React](https://img.shields.io/badge/React-⚛️-blue)![Gin](https://img.shields.io/badge/Gin-🏎️-red)![Django](https://img.shields.io/badge/Django-🌐-darkgreen)![FastAPI](https://img.shields.io/badge/FastAPI-🚀-lightblue)![React Native](https://img.shields.io/badge/React_Native-🟢-teal)
 
-<b>专长</b>：全栈💻 | 爬虫🕷️| 自动化⚙️ | 区块链💰｜js逆向🔍｜
+专       长：![全栈](https://img.shields.io/badge/全栈-💻-blue)![爬虫](https://img.shields.io/badge/爬虫-🕷️-orange)![自动化](https://img.shields.io/badge/自动化-⚙️-green)![区块链](https://img.shields.io/badge/区块链-💰-yellow)![JS逆向](https://img.shields.io/badge/JS逆向-🔍-lightgrey)
 
-<b>偶尔</b>：浏览器插件 🧩 | App开发 📱
+偶       尔：![浏览器插件](https://img.shields.io/badge/浏览器插件-🧩-blue)![App开发](https://img.shields.io/badge/App开发-📱-green)
 
-<b>兴趣爱好</b>： 日语🇯🇵📖｜英语🇺🇸📖
+兴趣爱好：![日语](https://img.shields.io/badge/日语-🇯🇵-red)![英语](https://img.shields.io/badge/英语-🇺🇸-blue)
 
-<b>正在学习</b>：机器学习 📊 | 数据分析 📈 | 概率统计 🎲
+正在学习：![机器学习](https://img.shields.io/badge/机器学习-📊-yellow)![数据分析](https://img.shields.io/badge/数据分析-📈-lightblue)![概率统计](https://img.shields.io/badge/概率统计-🎲-green)
 
 <b>联系我</b>：📬 zhuyicode@gmail.com</span>
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
 
 
 <p align="center">
