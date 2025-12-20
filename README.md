@@ -19,7 +19,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <!-- 左边图片 -->
-  <img src="/Users/longxuan/Desktop/my/github_homepage/README.assets/绪山真寻2-6252654.jpg" width="200"/>
+  <img src="README.assets/绪山真寻2-6252654.jpg" width="200"/>
 
   <!-- 右边文字 -->
   <div>
