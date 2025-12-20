@@ -21,5 +21,5 @@
 
 
 <p align="center">
-  <img src="assets/波奇酱2.png" height="200" style="border-radius: 20px; margin-top: 10px"/>
+  <img src="assets/波奇酱2.png" height="200" style="border-radius: 20px; margin-top: 80px"/>
 </p>
