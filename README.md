@@ -1,4 +1,4 @@
-# 🌸 欢迎来到我的 GitHub 🌸
+# <p align="center">🌸 欢迎来到我的 GitHub 🌸</p>
 
 <img src="assets/绪山真寻2.jpg" align="left" width="200" style="border-radius: 20px"/>
 <br><br><span style="padding-left: 10px">嗨~ 我是 <b>竹一(Zhu Yi)</b>，一个热爱编程的程序员 👾💻  
