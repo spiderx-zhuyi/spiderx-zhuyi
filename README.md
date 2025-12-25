@@ -1,6 +1,6 @@
 # <p align="center">🌸 欢迎来到我的 GitHub 🌸</p>
 
-<img src="README.assets/绪山真寻2-6254574.jpg" align="right" width="200" style="border-radius:20px; margin-right:20px;"/><br><br>嗨~ 我是 **竹一(Zhu Yi)**，一个热爱编程的程序员 👾💻  
+<img src="README.assets/绪山真寻2-6254574.jpg" align="right" width="200" style="border-radius:20px; margin-right:20px;"/>
 
 <table align="left">
   <tr>
@@ -57,4 +57,3 @@
     </td>
   </tr>
 </table>
-
