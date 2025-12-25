@@ -4,60 +4,56 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-      <br/>
-      <b style="font-size:20px;">嗨～我是 竹一 (Zhu Yi)</b>
-      <br/>
-      <sub>可爱系程序员 · 写代码也要萌萌哒 💕</sub>
+    <td colspan="2" align="center">
+      <h2>🌸 竹一 · Zhu Yi 🌸</h2>
+      <p>嗨～我是一个热爱编程的程序员 👾💻</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      🌸 <b>技能语言</b> 🌸
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-🐍-ffb6c1?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Golang-🎀-ff9aa2?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-✨-ffc0cb?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/SQL-🍰-ffccd5?style=for-the-badge"/>
-    </td>
-
-    <td align="center" width="50%">
-      🧁 <b>框架 / 工具</b> 🧁
-      <br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-🌷-ffb6c1?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Scrapy-🕷️-ff9aa2?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/React-💗-ffc0cb?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Gin-🎐-ffccd5?style=for-the-badge"/>
+    <td align="center">💻 技能语言</td>
+    <td>
+      🐍 Python &nbsp;|&nbsp;
+      🏎️ Golang &nbsp;|&nbsp;
+      ⚡ JavaScript &nbsp;|&nbsp;
+      📊 SQL
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-      🍓 <b>专长</b> 🍓
-      <br/><br/>
-      <img src="https://img.shields.io/badge/爬虫-🕸️-ffb6c1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/自动化-⚙️-ffc0cb?style=flat-square"/>
-      <img src="https://img.shields.io/badge/区块链-💰-ff9aa2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/JS逆向-🔍-ffccd5?style=flat-square"/>
-    </td>
-
-    <td align="center">
-      🌷 <b>兴趣 & 学习</b> 🌷
-      <br/><br/>
-      <img src="https://img.shields.io/badge/日语-🇯🇵-ffb6c1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/英语-🇺🇸-ffc0cb?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/机器学习-📊-ff9aa2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/数据分析-📈-ffccd5?style=flat-square"/>
+    <td align="center">🧰 框架工具</td>
+    <td>
+      🕷️ Scrapy ｜ ⚛️ React ｜ 🌐 Django <br/>
+      🚀 FastAPI ｜ 🟢 React Native ｜ 🏎️ Gin
     </td>
   </tr>
-
   <tr>
-    <td ali
+    <td align="center">✨ 专长</td>
+    <td>
+      💻 全栈 ｜ 🕷️ 爬虫 ｜ ⚙️ 自动化 <br/>
+      💰 区块链 ｜ 🔍 JS 逆向
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🎮 偶尔折腾</td>
+    <td>
+      🧩 浏览器插件 ｜ 📱 App 开发
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌍 兴趣语言</td>
+    <td>
+      🇯🇵 日语 ｜ 🇺🇸 英语
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📚 正在学习</td>
+    <td>
+      📊 机器学习 ｜ 📈 数据分析 ｜ 🎲 概率统计
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📬 联系我</td>
+    <td>
+      ✉️ zhuyicode@gmail.com
+    </td>
+  </tr>
+</table>
