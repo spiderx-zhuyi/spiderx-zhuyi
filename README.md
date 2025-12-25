@@ -6,7 +6,7 @@
   <tr>
     <td colspan="2" align="center">
       <h2><img src="assets/a.jpg" style="display: inline-block" width=30> 竹一 · Zhu Yi <img style="display: inline-block" src="assets/a.jpg" width=30></h2>
-      <p>嗨～我是一个热爱编程的程序员 👾💻</p>
+      <p>一个热爱编程的程序员 👾💻</p>
     </td>
   </tr>
   <tr>
