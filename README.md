@@ -2,7 +2,7 @@
 
 <img src="README.assets/绪山真寻2-6254574.jpg" align="right" width="200" style="border-radius:20px; margin-right:20px;"/><br><br>嗨~ 我是 **竹一(Zhu Yi)**，一个热爱编程的程序员 👾💻  
 
-<table align="center">
+<table align="left">
   <tr>
     <td colspan="2" align="left">
       <h2>🌸 竹一 · Zhu Yi 🌸</h2>
