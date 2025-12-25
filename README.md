@@ -4,13 +4,13 @@
 
 <table align="left">
   <tr>
-    <td colspan="2" align="left">
-      <h2>🌸 竹一 · Zhu Yi 🌸</h2>
+    <td colspan="2" align="center">
+      <h2><img src="assets/a.jpg" style="display: inline-block" width=30> 竹一 · Zhu Yi <img style="display: inline-block" src="assets/a.jpg" width=30></h2>
       <p>嗨～我是一个热爱编程的程序员 👾💻</p>
     </td>
   </tr>
   <tr>
-    <td align="center">💻 技能语言</td>
+    <td align="center">技能语言</td>
     <td>
       🐍 Python &nbsp;&nbsp;
       🏎️ Golang &nbsp;&nbsp;
@@ -57,3 +57,4 @@
     </td>
   </tr>
 </table>
+
